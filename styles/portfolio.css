@@ -121,6 +121,58 @@
 
 }
 
+/*resume style*/
+.section-title{
+    
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+
+}
+.resume-container{
+    display: flex;
+    gap: 300px;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume-title{
+    font-size: 35px;
+    font-weight: 700;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.resume .subtitle{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume .description{
+    color: #757575;
+    font-weight: 400;
+    font-size: 18px;
+}
+.resume-button{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color:  #FFFFFF;
+    border: 0;
+    background: #005FAC;
+    border-radius: 5px;
+    padding:21px 25px 20px 26px ;
+    margin-left: 440px;
+    margin-bottom: 130px;
+}
+
+
 /*  gradient contact section*/
 
 .contact{
@@ -212,56 +264,3 @@
    
 
 }
-/*resume style*/
-.section-title{
-    
-    margin-bottom: 30px;
-    font-weight: 700;
-    font-size: 40px;
-    text-align: center;
-
-}
-.resume-container{
-    display: flex;
-    gap: 300px;
-}
-.resume-item{
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
-.resume-title{
-    font-size: 35px;
-    font-weight: 700;
-}
-.resume .title{
-    font-weight: 700;
-    font-size: 25px;
-    color: #474747;
-    margin-bottom: 10px;
-}
-.resume .subtitle{
-    font-weight: 600;
-    font-size: 20px;
-    color: #757575;
-    margin-bottom: 20px;
-}
-.resume .description{
-    color: #757575;
-    font-weight: 400;
-    font-size: 18px;
-}
-.resume-button{
-    font-weight: 600;
-    font-size: 20px;
-    text-align: center;
-    color:  #FFFFFF;
-    border: 0;
-    background: #005FAC;
-    border-radius: 5px;
-    padding:21px 25px 20px 26px ;
-    margin-left: 440px;
-    margin-bottom: 130px;
-}
-
-
-
